@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [AP Computer Science]({{ "/" | relative_url }})
 
-Harvard University\\
-2018–2019
+University High School\\
+2019–2020
