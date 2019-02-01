@@ -1,6 +1,9 @@
 ---
 title: false
 ---
+# Assignment 1
+
+Go ahead and open it up.
 
 # Hello, world!
 
